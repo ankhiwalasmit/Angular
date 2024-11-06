@@ -5,24 +5,16 @@ An Angular project demonstrating the use of Angular Material Data Table for crea
 ## Table of Contents
 
 - [Overview](#overview)
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
 ## Overview
 
 This project showcases how to use Angular Material's Data Table component to create a dynamic and responsive table for data display. It includes sorting, filtering, and pagination functionalities, making it suitable for data-heavy applications or as a learning tool for integrating Angular Material components.
-
-## Demo
-
-Watch a live demo of this project on [YouTube](https://www.youtube.com/watch?v=5C9tY8npeFM).
 
 ## Features
 
@@ -38,7 +30,7 @@ To get a local copy up and running, follow these steps:
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/desoga10/Angular-material-data-table.git
+    git remote add origin https://github.com/ankhiwalasmit/Angular.git
     cd Angular-material-data-table
     ```
 
